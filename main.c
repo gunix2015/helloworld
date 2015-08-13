@@ -10,5 +10,8 @@ int a = 1;
 
 float f = 2.0f;
 
+char c = 'a';
+
+long d = 0x12;
 return 0;
 }
