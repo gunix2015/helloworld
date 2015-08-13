@@ -8,5 +8,7 @@ printf("modify this file but don't have permission, a new branch will be created
 
 int a = 1;
 
+float f = 2.0f;
+
 return 0;
 }
